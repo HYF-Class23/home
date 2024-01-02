@@ -191,6 +191,248 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 <!-- BEGIN LEARNERS -->
 
+## Learners
+
+| <img src="./admin/assets/avatars/AllanSaku.png" height="200px" width="200px" alt="AllanSaku avatar" /> | <h3 id="AllanSaku">Allan</h3><br>[AllanSaku](https://github.com/AllanSaku) \| [home page](https://AllanSaku.github.io) \| [bio](./student-bios/AllanSaku.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AAllanSaku+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AAllanSaku+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AAllanSaku+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AAllanSaku) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AAllanSaku) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AAllanSaku) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AAllanSaku) |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Allan's github stats</summary>
+<br>
+
+![AllanSaku github activity](https://ghchart.rshah.org/AllanSaku)
+
+![AllanSaku github stats](https://github-readme-stats.vercel.app/api?username=AllanSaku&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/EnnyFRANS.png" height="200px" width="200px" alt="EnnyFRANS avatar" /> | <h3 id="EnnyFRANS">Enny</h3><br>[EnnyFRANS](https://github.com/EnnyFRANS) \| [home page](https://EnnyFRANS.github.io) \| [bio](./student-bios/EnnyFRANS.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AEnnyFRANS+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AEnnyFRANS+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AEnnyFRANS+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AEnnyFRANS) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AEnnyFRANS) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AEnnyFRANS) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AEnnyFRANS) |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Enny's github stats</summary>
+<br>
+
+![EnnyFRANS github activity](https://ghchart.rshah.org/EnnyFRANS)
+
+![EnnyFRANS github stats](https://github-readme-stats.vercel.app/api?username=EnnyFRANS&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/netocalderon.png" height="200px" width="200px" alt="netocalderon avatar" /> | <h3 id="netocalderon">Ernesto</h3><br>[netocalderon](https://github.com/netocalderon) \| [home page](https://netocalderon.github.io) \| [bio](./student-bios/netocalderon.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Anetocalderon+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Anetocalderon+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Anetocalderon+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Anetocalderon) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Anetocalderon) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Anetocalderon) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Anetocalderon) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Ernesto's github stats</summary>
+<br>
+
+![netocalderon github activity](https://ghchart.rshah.org/netocalderon)
+
+![netocalderon github stats](https://github-readme-stats.vercel.app/api?username=netocalderon&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Gemechis10.png" height="200px" width="200px" alt="Gemechis10 avatar" /> | <h3 id="Gemechis10">Gemechis</h3><br>[Gemechis10](https://github.com/Gemechis10) \| [home page](https://Gemechis10.github.io) \| [bio](./student-bios/Gemechis10.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AGemechis10+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AGemechis10+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AGemechis10+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AGemechis10) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AGemechis10) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AGemechis10) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AGemechis10) |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Gemechis's github stats</summary>
+<br>
+
+![Gemechis10 github activity](https://ghchart.rshah.org/Gemechis10)
+
+![Gemechis10 github stats](https://github-readme-stats.vercel.app/api?username=Gemechis10&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/GKing3.png" height="200px" width="200px" alt="GKing3 avatar" /> | <h3 id="GKing3">Glorius</h3><br>[GKing3](https://github.com/GKing3) \| [home page](https://GKing3.github.io) \| [bio](./student-bios/GKing3.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AGKing3+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AGKing3+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AGKing3+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AGKing3) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AGKing3) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AGKing3) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AGKing3) |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Glorius's github stats</summary>
+<br>
+
+![GKing3 github activity](https://ghchart.rshah.org/GKing3)
+
+![GKing3 github stats](https://github-readme-stats.vercel.app/api?username=GKing3&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Hammad1820.png" height="200px" width="200px" alt="Hammad1820 avatar" /> | <h3 id="Hammad1820">Hammad</h3><br>[Hammad1820](https://github.com/Hammad1820) \| [home page](https://Hammad1820.github.io) \| [bio](./student-bios/Hammad1820.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AHammad1820+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AHammad1820+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AHammad1820+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AHammad1820) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AHammad1820) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AHammad1820) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AHammad1820) |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Hammad's github stats</summary>
+<br>
+
+![Hammad1820 github activity](https://ghchart.rshah.org/Hammad1820)
+
+![Hammad1820 github stats](https://github-readme-stats.vercel.app/api?username=Hammad1820&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/ItzelRipzeg.png" height="200px" width="200px" alt="ItzelRipzeg avatar" /> | <h3 id="ItzelRipzeg">Itzel</h3><br>[ItzelRipzeg](https://github.com/ItzelRipzeg) \| [home page](https://ItzelRipzeg.github.io) \| [bio](./student-bios/ItzelRipzeg.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AItzelRipzeg+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AItzelRipzeg+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AItzelRipzeg+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AItzelRipzeg) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AItzelRipzeg) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AItzelRipzeg) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AItzelRipzeg) |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Itzel's github stats</summary>
+<br>
+
+![ItzelRipzeg github activity](https://ghchart.rshah.org/ItzelRipzeg)
+
+![ItzelRipzeg github stats](https://github-readme-stats.vercel.app/api?username=ItzelRipzeg&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Kev-Ose.png" height="200px" width="200px" alt="Kev-Ose avatar" /> | <h3 id="Kev-Ose">Kevin</h3><br>[Kev-Ose](https://github.com/Kev-Ose) \| [home page](https://Kev-Ose.github.io) \| [bio](./student-bios/Kev-Ose.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AKev-Ose+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AKev-Ose+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AKev-Ose+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AKev-Ose) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AKev-Ose) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AKev-Ose) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AKev-Ose) |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Kevin's github stats</summary>
+<br>
+
+![Kev-Ose github activity](https://ghchart.rshah.org/Kev-Ose)
+
+![Kev-Ose github stats](https://github-readme-stats.vercel.app/api?username=Kev-Ose&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/mickyniyomukiza.png" height="200px" width="200px" alt="mickyniyomukiza avatar" /> | <h3 id="mickyniyomukiza">Micky</h3><br>[mickyniyomukiza](https://github.com/mickyniyomukiza) \| [home page](https://mickyniyomukiza.github.io) \| [bio](./student-bios/mickyniyomukiza.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Amickyniyomukiza+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Amickyniyomukiza+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Amickyniyomukiza+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Amickyniyomukiza) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Amickyniyomukiza) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Amickyniyomukiza) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Amickyniyomukiza) |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Micky's github stats</summary>
+<br>
+
+![mickyniyomukiza github activity](https://ghchart.rshah.org/mickyniyomukiza)
+
+![mickyniyomukiza github stats](https://github-readme-stats.vercel.app/api?username=mickyniyomukiza&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/pallavisarwar.png" height="200px" width="200px" alt="pallavisarwar avatar" /> | <h3 id="pallavisarwar">Pallavi</h3><br>[pallavisarwar](https://github.com/pallavisarwar) \| [home page](https://pallavisarwar.github.io) \| [bio](./student-bios/pallavisarwar.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Apallavisarwar+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Apallavisarwar+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Apallavisarwar+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Apallavisarwar) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Apallavisarwar) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Apallavisarwar) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Apallavisarwar) |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Pallavi's github stats</summary>
+<br>
+
+![pallavisarwar github activity](https://ghchart.rshah.org/pallavisarwar)
+
+![pallavisarwar github stats](https://github-readme-stats.vercel.app/api?username=pallavisarwar&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/PolyannaMeira.png" height="200px" width="200px" alt="PolyannaMeira avatar" /> | <h3 id="PolyannaMeira">Polyanna</h3><br>[PolyannaMeira](https://github.com/PolyannaMeira) \| [home page](https://PolyannaMeira.github.io) \| [bio](./student-bios/PolyannaMeira.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3APolyannaMeira+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3APolyannaMeira+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3APolyannaMeira+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3APolyannaMeira) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3APolyannaMeira) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3APolyannaMeira) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3APolyannaMeira) |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Polyanna's github stats</summary>
+<br>
+
+![PolyannaMeira github activity](https://ghchart.rshah.org/PolyannaMeira)
+
+![PolyannaMeira github stats](https://github-readme-stats.vercel.app/api?username=PolyannaMeira&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Smita81.png" height="200px" width="200px" alt="Smita81 avatar" /> | <h3 id="Smita81">Smita</h3><br>[Smita81](https://github.com/Smita81) \| [home page](https://Smita81.github.io) \| [bio](./student-bios/Smita81.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3ASmita81+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3ASmita81+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3ASmita81+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3ASmita81) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3ASmita81) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3ASmita81) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3ASmita81) |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Smita's github stats</summary>
+<br>
+
+![Smita81 github activity](https://ghchart.rshah.org/Smita81)
+
+![Smita81 github stats](https://github-readme-stats.vercel.app/api?username=Smita81&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/stefan-000.png" height="200px" width="200px" alt="stefan-000 avatar" /> | <h3 id="stefan-000">Stefan</h3><br>[stefan-000](https://github.com/stefan-000) \| [home page](https://stefan-000.github.io) \| [bio](./student-bios/stefan-000.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Astefan-000+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Astefan-000+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Astefan-000+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Astefan-000) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Astefan-000) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Astefan-000) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Astefan-000) |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Stefan's github stats</summary>
+<br>
+
+![stefan-000 github activity](https://ghchart.rshah.org/stefan-000)
+
+![stefan-000 github stats](https://github-readme-stats.vercel.app/api?username=stefan-000&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/tarunpurswani.png" height="200px" width="200px" alt="tarunpurswani avatar" /> | <h3 id="tarunpurswani">Tarun</h3><br>[tarunpurswani](https://github.com/tarunpurswani) \| [home page](https://tarunpurswani.github.io) \| [bio](./student-bios/tarunpurswani.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Atarunpurswani+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Atarunpurswani+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Atarunpurswani+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Atarunpurswani) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Atarunpurswani) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Atarunpurswani) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Atarunpurswani) |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Tarun's github stats</summary>
+<br>
+
+![tarunpurswani github activity](https://ghchart.rshah.org/tarunpurswani)
+
+![tarunpurswani github stats](https://github-readme-stats.vercel.app/api?username=tarunpurswani&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Vapsu.png" height="200px" width="200px" alt="Vapsu avatar" /> | <h3 id="Vapsu">Vaula</h3><br>[Vapsu](https://github.com/Vapsu) \| [home page](https://Vapsu.github.io) \| [bio](./student-bios/Vapsu.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AVapsu+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AVapsu+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AVapsu+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AVapsu) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AVapsu) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AVapsu) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AVapsu) |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Vaula's github stats</summary>
+<br>
+
+![Vapsu github activity](https://ghchart.rshah.org/Vapsu)
+
+![Vapsu github stats](https://github-readme-stats.vercel.app/api?username=Vapsu&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/vidushiseksaria.png" height="200px" width="200px" alt="vidushiseksaria avatar" /> | <h3 id="vidushiseksaria">Vidush</h3><br>[vidushiseksaria](https://github.com/vidushiseksaria) \| [home page](https://vidushiseksaria.github.io) \| [bio](./student-bios/vidushiseksaria.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Avidushiseksaria+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Avidushiseksaria+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Avidushiseksaria+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Avidushiseksaria) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Avidushiseksaria) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Avidushiseksaria) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Avidushiseksaria) |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Vidush's github stats</summary>
+<br>
+
+![vidushiseksaria github activity](https://ghchart.rshah.org/vidushiseksaria)
+
+![vidushiseksaria github stats](https://github-readme-stats.vercel.app/api?username=vidushiseksaria&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/juryp.png" height="200px" width="200px" alt="juryp avatar" /> | <h3 id="juryp">Yurii</h3><br>[juryp](https://github.com/juryp) \| [home page](https://juryp.github.io) \| [bio](./student-bios/juryp.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Ajuryp+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Ajuryp+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Ajuryp+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Ajuryp) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Ajuryp) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Ajuryp) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Ajuryp) |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Yurii's github stats</summary>
+<br>
+
+![juryp github activity](https://ghchart.rshah.org/juryp)
+
+![juryp github stats](https://github-readme-stats.vercel.app/api?username=juryp&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+---
+
 <!-- END LEARNERS -->
 
 <!-- BEGIN COACHES -->
