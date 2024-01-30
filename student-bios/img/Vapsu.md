@@ -8,7 +8,7 @@
 - Artist and Illustrator 🎨
 - Studying coding to become a fullstack developer
 - Dyslexic
-- Live in Belgium, Aalst
+- Live in Belgium, Aalst 😎
 
 ---
 
