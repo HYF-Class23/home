@@ -4,7 +4,7 @@
 
 ![minha foto](./img/polyannameira.jpeg)
 
-# **_About me_**
+**_About me_**
 
 I am 39 years old, Brazilian, married and mother of 2 beautiful children, Lucas,
 15 years old and Caua, 9 years old.
