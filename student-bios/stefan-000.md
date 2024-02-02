@@ -1,8 +1,24 @@
-# Stefan
+# Hello, I'm Stefan
 
-Hello,
+---
 
-**I am Stefan.**
+![photo](./img/stefanPhoto.jpg)
 
-I am programming enthusiast and I am passionate about learning more about HTML,
-CSS and JavaScript. I enjoy traveling and exercising in my free time.
+---
+
+## About me
+
+I am an enthusiastic programmer with a strong background in technical operations
+and customer relations. I am eager to further develop my coding skills, and I
+believe that [HackYourFuture](https://www.hackyourfuturebelgium.be) can help me
+achieve this goal.
+
+- **BA in applied Economics**
+
+- **Software testing (manual + automation) IT Bootcamp**
+
+Hobbies:
+
+- CrossFit
+- Hiking
+- Traveling
