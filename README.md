@@ -291,6 +291,20 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/nibishakajean.png" height="200px" width="200px" alt="nibishakajean avatar" /> | <h3 id="nibishakajean">Jean</h3><br>[nibishakajean](https://github.com/nibishakajean) \| [home page](https://nibishakajean.github.io) \| [bio](./student-bios/nibishakajean.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Anibishakajean+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Anibishakajean+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Anibishakajean+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Anibishakajean) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Anibishakajean) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Anibishakajean) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Anibishakajean) |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Jean's github stats</summary>
+<br>
+
+![nibishakajean github activity](https://ghchart.rshah.org/nibishakajean)
+
+![nibishakajean github stats](https://github-readme-stats.vercel.app/api?username=nibishakajean&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
 | <img src="./admin/assets/avatars/Kev-Ose.png" height="200px" width="200px" alt="Kev-Ose avatar" /> | <h3 id="Kev-Ose">Kevin</h3><br>[Kev-Ose](https://github.com/Kev-Ose) \| [home page](https://Kev-Ose.github.io) \| [bio](./student-bios/Kev-Ose.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AKev-Ose+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AKev-Ose+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AKev-Ose+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AKev-Ose) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AKev-Ose) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AKev-Ose) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AKev-Ose) |
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
@@ -301,20 +315,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 ![Kev-Ose github activity](https://ghchart.rshah.org/Kev-Ose)
 
 ![Kev-Ose github stats](https://github-readme-stats.vercel.app/api?username=Kev-Ose&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/mickyniyomukiza.png" height="200px" width="200px" alt="mickyniyomukiza avatar" /> | <h3 id="mickyniyomukiza">Micky</h3><br>[mickyniyomukiza](https://github.com/mickyniyomukiza) \| [home page](https://mickyniyomukiza.github.io) \| [bio](./student-bios/mickyniyomukiza.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3Amickyniyomukiza+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3Amickyniyomukiza+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3Amickyniyomukiza+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3Amickyniyomukiza) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3Amickyniyomukiza) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3Amickyniyomukiza) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3Amickyniyomukiza) |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Micky's github stats</summary>
-<br>
-
-![mickyniyomukiza github activity](https://ghchart.rshah.org/mickyniyomukiza)
-
-![mickyniyomukiza github stats](https://github-readme-stats.vercel.app/api?username=mickyniyomukiza&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
@@ -438,6 +438,16 @@ real-world problem they face, then deliver a web app to meet their needs.
 <!-- BEGIN COACHES -->
 
 ## Coaches
+
+<table><tr><th> <img src="./admin/assets/avatars/bibhasingh.png" height="200px" width="200px" alt="bibhasingh avatar" /> </th><th> <h3 id="bibhasingh">Bibha</h3><br><a href="https://github.com/bibhasingh">bibhasingh</a><br><a href="https://github.com/HYF-class23/home/issues?q=author%3Abibhasingh">opened</a> | <a href="https://github.com/HYF-class23/home/issues?q=assignee%3Abibhasingh">assigned</a> | <a href="https://github.com/HYF-class23/home/issues?q=commenter%3Abibhasingh">commented</a> | <a href="https://github.com/HYF-class23/home/issues?q=mentions%3Abibhasingh">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/galalkoro98.png" height="200px" width="200px" alt="galalkoro98 avatar" /> </th><th> <h3 id="galalkoro98">Galal</h3><br><a href="https://github.com/galalkoro98">galalkoro98</a><br><a href="https://github.com/HYF-class23/home/issues?q=author%3Agalalkoro98">opened</a> | <a href="https://github.com/HYF-class23/home/issues?q=assignee%3Agalalkoro98">assigned</a> | <a href="https://github.com/HYF-class23/home/issues?q=commenter%3Agalalkoro98">commented</a> | <a href="https://github.com/HYF-class23/home/issues?q=mentions%3Agalalkoro98">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/johnedelbi.png" height="200px" width="200px" alt="johnedelbi avatar" /> </th><th> <h3 id="johnedelbi">John</h3><br><a href="https://github.com/johnedelbi">johnedelbi</a><br><a href="https://github.com/HYF-class23/home/issues?q=author%3Ajohnedelbi">opened</a> | <a href="https://github.com/HYF-class23/home/issues?q=assignee%3Ajohnedelbi">assigned</a> | <a href="https://github.com/HYF-class23/home/issues?q=commenter%3Ajohnedelbi">commented</a> | <a href="https://github.com/HYF-class23/home/issues?q=mentions%3Ajohnedelbi">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/Hekterek.png" height="200px" width="200px" alt="Hekterek avatar" /> </th><th> <h3 id="Hekterek">Karol</h3><br><a href="https://github.com/Hekterek">Hekterek</a><br><a href="https://github.com/HYF-class23/home/issues?q=author%3AHekterek">opened</a> | <a href="https://github.com/HYF-class23/home/issues?q=assignee%3AHekterek">assigned</a> | <a href="https://github.com/HYF-class23/home/issues?q=commenter%3AHekterek">commented</a> | <a href="https://github.com/HYF-class23/home/issues?q=mentions%3AHekterek">mentioned</a><br> </th></tr></table>
+
+<table><tr><th> <img src="./admin/assets/avatars/Mileenka.png" height="200px" width="200px" alt="Mileenka avatar" /> </th><th> <h3 id="Mileenka">Milena</h3><br><a href="https://github.com/Mileenka">Mileenka</a><br><a href="https://github.com/HYF-class23/home/issues?q=author%3AMileenka">opened</a> | <a href="https://github.com/HYF-class23/home/issues?q=assignee%3AMileenka">assigned</a> | <a href="https://github.com/HYF-class23/home/issues?q=commenter%3AMileenka">commented</a> | <a href="https://github.com/HYF-class23/home/issues?q=mentions%3AMileenka">mentioned</a><br> </th></tr></table>
 
 <table><tr><th> <img src="./admin/assets/avatars/samirm00.png" height="200px" width="200px" alt="samirm00 avatar" /> </th><th> <h3 id="samirm00">Samir</h3><br><a href="https://github.com/samirm00">samirm00</a><br><a href="https://github.com/HYF-class23/home/issues?q=author%3Asamirm00">opened</a> | <a href="https://github.com/HYF-class23/home/issues?q=assignee%3Asamirm00">assigned</a> | <a href="https://github.com/HYF-class23/home/issues?q=commenter%3Asamirm00">commented</a> | <a href="https://github.com/HYF-class23/home/issues?q=mentions%3Asamirm00">mentioned</a><br> </th></tr></table>
 
