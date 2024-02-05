@@ -1,29 +1,26 @@
-# GEMECHIS  GELANA  
+# GEMECHIS GELANA
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"talk is cheap,show me the code."*  **linus torvalds**
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"talk is cheap,show me the code."_ **linus
+torvalds**
 
 ![alt text](<profile picture.jpeg>)
 
 i was born in ethiopia. now i live in belgium.
 
-
-## i am in a progress with:
+## i am in a progress with
 
 1. git / github
- 2. html / css
- 3. java 
- 
+2. html / css
+3. java
 
- ### hobbies
- - music
- - online games
- - reading 
- - football
+### hobbies
 
+- music
+- online games
+- reading
+- football
 
- ### contacts
-  - email: &nbsp;&nbsp;fikadugemechisgelana@gmail.com 
-  - github: &nbsp;&nbsp; gemechis10
+### contacts
 
- 
+- email: &nbsp;&nbsp;fikadugemechisgelana@gmail.com
+- github: &nbsp;&nbsp; gemechis10
