@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"talk is cheap,show me the code."_ **linus
 torvalds**
 
-![alt text](<profile picture.jpeg>)
+![Gemechis](./Gemechis10.md)
 
 i was born in ethiopia. now i live in belgium.
 
@@ -22,5 +22,5 @@ i was born in ethiopia. now i live in belgium.
 
 ### contacts
 
-- email: &nbsp;&nbsp;fikadugemechisgelana@gmail.com
+- email: &nbsp;&nbsp;<fikadugemechisgelana@gmail.com>
 - github: &nbsp;&nbsp; gemechis10
