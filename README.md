@@ -249,11 +249,11 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/GKing3.png" height="200px" width="200px" alt="GKing3 avatar" /> | <h3 id="GKing3">Glorius</h3><br>[GKing3](https://github.com/GKing3) \| [home page](https://GKing3.github.io) \| [bio](./student-bios/GKing3.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AGKing3+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AGKing3+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AGKing3+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AGKing3) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AGKing3) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AGKing3) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AGKing3) |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/GKing3.png" height="200px" width="200px" alt="GKing3 avatar" /> | <h3 id="GKing3">King</h3><br>[GKing3](https://github.com/GKing3) \| [home page](https://GKing3.github.io) \| [bio](./student-bios/GKing3.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AGKing3+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AGKing3+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AGKing3+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AGKing3) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AGKing3) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AGKing3) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AGKing3) |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Glorius's github stats</summary>
+<summary>King's github stats</summary>
 <br>
 
 ![GKing3 github activity](https://ghchart.rshah.org/GKing3)
@@ -273,20 +273,6 @@ real-world problem they face, then deliver a web app to meet their needs.
 ![Hammad1820 github activity](https://ghchart.rshah.org/Hammad1820)
 
 ![Hammad1820 github stats](https://github-readme-stats.vercel.app/api?username=Hammad1820&show_icons=true&theme=default&hide_title=true&hide_rank=true)
-
-</details>
-<hr style="width:60%;align:center">
-
-| <img src="./admin/assets/avatars/ItzelRipzeg.png" height="200px" width="200px" alt="ItzelRipzeg avatar" /> | <h3 id="ItzelRipzeg">Itzel</h3><br>[ItzelRipzeg](https://github.com/ItzelRipzeg) \| [home page](https://ItzelRipzeg.github.io) \| [bio](./student-bios/ItzelRipzeg.md)<br>[check-ins](https://github.com/HYF-class23/home/issues/?q=assignee%3AItzelRipzeg+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class23/projects/1?filterQuery=assignee%3AItzelRipzeg+label%3Adeliverable) \| [retros](https://github.com/HYF-class23/home/issues/?q=assignee%3AItzelRipzeg+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class23/home/issues?q=author%3AItzelRipzeg) \| [assigned](https://github.com/HYF-class23/home/issues?q=assignee%3AItzelRipzeg) \| [commented](https://github.com/HYF-class23/home/issues?q=commenter%3AItzelRipzeg) \| [mentioned](https://github.com/HYF-class23/home/issues?q=mentions%3AItzelRipzeg) |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<details>
-<summary>Itzel's github stats</summary>
-<br>
-
-![ItzelRipzeg github activity](https://ghchart.rshah.org/ItzelRipzeg)
-
-![ItzelRipzeg github stats](https://github-readme-stats.vercel.app/api?username=ItzelRipzeg&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
