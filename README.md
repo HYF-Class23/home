@@ -138,7 +138,7 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Databases](https://github.com/HackYourFutureBelgium/databases-sql-nosql): 3 weeks
+### [9. Databases](https://github.com/HackYourFutureBelgium/sql-database): 3 weeks
 
 > [check-ins](https://github.com/HYF-class23/home/issues/?q=milestone%3A"9.%20Databases"+label%3Acheck-in)
 > |
@@ -147,8 +147,7 @@ websites.
 > [retros](https://github.com/HYF-class23/home/issues/?q=milestone%3A"9.%20Databases"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/HYF-class23/home/milestone/10)
 
-Learn using relational and non-relational databases to create, update and access
-data
+Learn using relational databases to create, update and access data
 
 ### [10. Node.js](https://github.com/HackYourFutureBelgium/node-js): 3 weeks
 

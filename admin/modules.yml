@@ -72,9 +72,9 @@ path:
     state: open
   - name: 9. Databases
     description: >-
-      Learn using relational and non-relational databases to create, update and
+      Learn using relational databases to create, update and
       access data
-    url: https://github.com/HackYourFutureBelgium/databases-sql-nosql
+    url: https://github.com/HackYourFutureBelgium/sql-database
     weeks: 3
     milestone: 10
     state: open
