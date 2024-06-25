@@ -2,7 +2,7 @@
 
 ---
 
-## Fedoriv Yurii
+## Yurii
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### About myself
 
-I am from Ukrain.
+I am from Ukraine.
 
 I am a friendly, positive and helpful person. I love an active lifestyle. I play
 ping pong, roller skate, play the guitar and sing songs.
